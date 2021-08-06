@@ -1,0 +1,19 @@
+.UserItemWrapper {
+    background-color: rgb(189, 221, 188);
+}
+.UserItem {
+    display: grid;
+    grid-template-rows: 1fr ;
+    margin : 15px;
+    padding: 10px;
+  
+}
+.textItem{
+    text-decoration: none;
+    }
+    .imgItem{
+        width: 100px;
+        height: 100px;
+        border-radius: 10px;
+    }
+    

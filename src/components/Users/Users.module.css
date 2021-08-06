@@ -1,0 +1,13 @@
+
+
+.selectedItem{
+    font-weight: bold;
+    color: rgb(0, 204, 255);
+    padding: 5px;
+    margin: 5px;
+}
+.item {
+    padding: 5px;
+    margin: 5px;
+    color : white;
+}

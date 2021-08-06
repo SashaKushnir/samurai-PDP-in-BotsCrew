@@ -1,0 +1,10 @@
+.myWrapper{
+    display: grid;
+    grid-template-columns: 4fr auto;
+}
+.toRightCorner{
+    text-align: right;
+}
+.marginator {
+    margin: 15px;
+}

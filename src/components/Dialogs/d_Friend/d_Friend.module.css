@@ -1,0 +1,15 @@
+.d_Friend a{
+    display: block ;
+    margin: 10px;
+    text-decoration: none;
+    padding: 15px;
+    border: dashed 1px #DF7000; 
+}
+.ActiveFriend {
+    display: block ;
+    color : gold;
+    font-weight : bolder ;
+    padding : 20px;
+    margin: 15px;
+    
+}
